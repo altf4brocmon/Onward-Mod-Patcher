@@ -1,4 +1,8 @@
 # Onward Mod Patcher
 Makes Modding Onward More Smooth  
 ##  
-Actual program was made in C
+Program was made in C  
+##  
+Made by King(@indieun2) on Discord  
+Main server | https://discord.gg/bwVryfn8XP  
+other server | https://discord.gg/skNbN4PU8Z  
