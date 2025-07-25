@@ -1,2 +1,2 @@
-# onwardmodpatcher
-Makes modding onward mor smooth
+# Onward Mod Patcher
+Makes Modding Onward More Smooth
