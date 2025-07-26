@@ -8,4 +8,5 @@ Other server | https://discord.gg/skNbN4PU8Z
 ##  How to use
 If program doesnt launch run the build.bat or .ps1  
 This will download everything needed to run C programs  
-##  
+##  Beta Releases
+https://github.com/altf4brocmon/Onward-Mod-Patcher/releases/tag/BETA
